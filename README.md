@@ -6,6 +6,11 @@ End-to-end PhonePe Pulse Data Analysis using SQL Server &amp; Power BI | KPI Rep
 This project focuses on analyzing **PhonePe Pulse transaction data** using **SQL Server** and **Power BI** to uncover meaningful business insights. The analysis covers multiple digital payment services, including payments, money transfers, recharge & bill payments, loans, and insurance transactions.
 
 The project demonstrates the complete data analytics workflow—from SQL-based data extraction and KPI calculation to interactive dashboard development in Power BI.
+---
+## Dashboard Preview
+
+![Dashboard Preview](https://github.com/dhanushj1139/PhonePe-Pulse-Data-Analysis-using-SQL-Power-BI/blob/dce0aacb4b119a29909a41cbd1158c1153ee8b4c/screen%201.png?raw=true)
+
 
 ---
 
@@ -113,35 +118,6 @@ This project demonstrates practical skills in:
 * Power BI Dashboard Design
 * Data Visualization
 * Business Intelligence Reporting
-
----
-
-## Repository Structure
-
-```
-PhonePe-Pulse-Analysis/
-│
-├── SQL Queries/
-│   └── PhonePe_Pulse_SQL.sql
-│
-├── Dashboard/
-│   └── PhonePe_Pulse_Dashboard.pbix
-│
-├── Report/
-│   └── PhonePe_Pulse_Project_Report.pdf
-│
-├── Images/
-│   └── Dashboard_Screenshot.png
-│
-└── README.md
-```
-
----
-## Dashboard Preview
-
-## Dashboard Preview
-
-![Dashboard Preview](https://github.com/dhanushj1139/PhonePe-Pulse-Data-Analysis-using-SQL-Power-BI/blob/dce0aacb4b119a29909a41cbd1158c1153ee8b4c/screen%201.png?raw=true)
 
 ## Conclusion
 
