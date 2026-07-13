@@ -138,7 +138,9 @@ PhonePe-Pulse-Analysis/
 
 ---
 ## Dashboard Preview
-![Dashboard](Screen%201.png)
+
+
+![Dashboard Preview](Dashboard_Overview.png)
 
 ## Conclusion
 
