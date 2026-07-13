@@ -13,11 +13,11 @@ The project demonstrates the complete data analytics workflow—from SQL-based d
 
 
 ---
-# PhonePe Pulse Data Analysis using SQL & Power BI
+## Download Power BI Dashboard
 
-![SQL](https://img.shields.io/badge/SQL-Server-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+The complete interactive Power BI dashboard (.pbix) can be downloaded from the latest release.
+
+👉 **[Download Dashboard](https://github.com/dhanushj1139/PhonePe-Pulse-Data-Analysis-using-SQL-Power-BI/releases/latest)**
 
 ## Project Objectives
 
