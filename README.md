@@ -13,6 +13,11 @@ The project demonstrates the complete data analytics workflow—from SQL-based d
 
 
 ---
+# PhonePe Pulse Data Analysis using SQL & Power BI
+
+![SQL](https://img.shields.io/badge/SQL-Server-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Project Objectives
 
