@@ -139,8 +139,9 @@ PhonePe-Pulse-Analysis/
 ---
 ## Dashboard Preview
 
+## Dashboard Preview
 
-![Dashboard Preview]([Dashboard_Overview.png](https://github.com/dhanushj1139/PhonePe-Pulse-Data-Analysis-using-SQL-Power-BI/blob/dce0aacb4b119a29909a41cbd1158c1153ee8b4c/screen%201.png))
+![Dashboard Preview](https://github.com/dhanushj1139/PhonePe-Pulse-Data-Analysis-using-SQL-Power-BI/blob/dce0aacb4b119a29909a41cbd1158c1153ee8b4c/screen%201.png?raw=true)
 
 ## Conclusion
 
