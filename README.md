@@ -138,8 +138,7 @@ PhonePe-Pulse-Analysis/
 
 ---
 ## Dashboard Preview
-
-<img src="Images/Screen%201.png" width="900">
+![Dashboard](Screen%201.png)
 
 ## Conclusion
 
