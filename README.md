@@ -126,4 +126,4 @@ This project demonstrates practical skills in:
 
 ## Conclusion
 
-This project showcases an end-to-end Business Intelligence solution by combining SQL and Power BI to transform raw transactional data into actionable insights. It highlights analytical thinking, SQL proficiency, dashboard development, and the ability to support data-driven business decisions through interactive reporting.
+This project showcases an end-to-end Business Intelligence solution by combining SQL and Power BI to transform raw transactional data into actionable insights. It highlights analytical thinking, SQL proficiency, dashboard development, and the ability to support data-driven business decisions through interactive reporting. This Data can be Taken By Phonepe Pulse 
